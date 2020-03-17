@@ -1,3 +1,11 @@
 3/16/20
+current objective: 
+we are looking for other parts to load up so the other parts of the XInFinite system we need to get running to get our testnet up and get their frontends that have the switches between front and backend working on it.
+
 https://github.com/XinFinOrg/TradeFinexLive/blob/livenew/Config.md
 installed xampp
+
+"Final payment will held using XDC wallet. Financier will pay beneficiary in XDC wallet , and similarly beneficiary can pay supplier to wallet"
+https://github.com/XinFinOrg/XDC-Mobile-Wallet
+
+FYI in order to run a .run file go into the properties and tell it that it's executable
